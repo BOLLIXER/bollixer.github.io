@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" height="100%" overflow="visible" preserveAspectRatio="none" style="display: block;" viewBox="0 0 40 40" width="100%">
+<g id="Group">
+<g id="Group_2">
+<path d="M26.6667 18.3333V11.6667C26.6667 9.825 25.175 8.33333 23.3333 8.33333H8.33333C6.49167 8.33333 5 9.825 5 11.6667V20C5 21.8417 6.49167 23.3333 8.33333 23.3333H13.3333" id="Path" stroke="var(--stroke-0, #1DBF98)" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5"/>
+<path clip-rule="evenodd" d="M31.6667 33.3333H16.6667C14.825 33.3333 13.3333 31.8417 13.3333 30V21.6667C13.3333 19.825 14.825 18.3333 16.6667 18.3333H31.6667C33.5083 18.3333 35 19.825 35 21.6667V30C35 31.8417 33.5083 33.3333 31.6667 33.3333Z" fill-rule="evenodd" id="Path_2" stroke="var(--stroke-0, #1DBF98)" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5"/>
+<path d="M26.6667 13.3333H5" id="Path_3" stroke="var(--stroke-0, #1DBF98)" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5"/>
+<path d="M13.3333 23.3333H35" id="Path_4" stroke="var(--stroke-0, #1DBF98)" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5"/>
+</g>
+<g id="Path_5">
+</g>
+</g>
+</svg>

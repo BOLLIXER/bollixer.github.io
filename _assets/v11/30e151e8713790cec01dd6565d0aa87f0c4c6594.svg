@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" height="100%" overflow="visible" preserveAspectRatio="none" style="display: block;" viewBox="0 0 60 60" width="100%">
+<g id="Frame 1000008496">
+<rect fill="url(#paint0_radial_0_16372)" height="60" width="60"/>
+<g id="Group 1000008207" opacity="0.3">
+<g id="Group 1000008199">
+<path d="M39.4539 33.5928L31.6405 33.6129L27.369 30.0441L39.4539 33.5928Z" fill="var(--fill-0, #09696E)" id="Vector 1205"/>
+<path d="M31.6208 23.4368H39.4541V26.3671H31.6208V23.4368Z" fill="var(--fill-0, #1DBF98)" id="Rectangle 3761"/>
+<path d="M20.527 23.4367H23.4297V26.3669H20.527V23.4367Z" fill="var(--fill-0, #1DBF98)" id="Rectangle 3764"/>
+<path d="M20.5267 28.6957H23.4294V36.5232H20.5267V28.6957Z" fill="var(--fill-0, #1DBF98)" id="Rectangle 3765"/>
+<path d="M27.369 30.1037L31.6207 23.4368V26.3669L27.369 30.1037Z" fill="var(--fill-0, #ACEED6)" id="Vector 1202"/>
+<path d="M27.4875 30.1037L23.4291 23.4368V26.3669L27.4875 30.1037Z" fill="var(--fill-0, #ACEED6)" id="Vector 1207"/>
+<path d="M31.6207 26.3669L27.369 30.1037L39.4539 26.3669H31.6207Z" fill="var(--fill-0, #09696E)" id="Vector 1204"/>
+<path d="M23.4291 26.3669L27.4875 30.1037L20.5463 26.3669H23.4291Z" fill="var(--fill-0, #09696E)" id="Vector 1208"/>
+<path d="M31.6008 33.5925H39.4539V36.5228H31.6008V33.5925Z" fill="var(--fill-0, #1DBF98)" id="Rectangle 3763"/>
+<path d="M31.6405 33.6129V36.5633L27.369 30.0441L31.6405 33.6129Z" fill="var(--fill-0, #ACEED6)" id="Vector 1203"/>
+<path d="M23.4295 28.6957V36.5232L27.4284 30.0441L23.4295 28.6957Z" fill="var(--fill-0, #ACEED6)" id="Vector 1209"/>
+<rect fill="var(--fill-0, #1DBF98)" height="2.93029" id="Rectangle 3762" width="7.87304" x="31.6008" y="28.6957"/>
+<path d="M27.3091 30.0441L31.6004 28.6957V31.626L27.3091 30.0441Z" fill="var(--fill-0, #ACEED6)" id="Vector 1201"/>
+</g>
+</g>
+</g>
+<defs>
+<radialGradient cx="0" cy="0" gradientTransform="translate(30 30) rotate(90) scale(30)" gradientUnits="userSpaceOnUse" id="paint0_radial_0_16372" r="1">
+<stop offset="0.375" stop-color="white"/>
+<stop offset="1" stop-color="white" stop-opacity="0"/>
+</radialGradient>
+</defs>
+</svg>

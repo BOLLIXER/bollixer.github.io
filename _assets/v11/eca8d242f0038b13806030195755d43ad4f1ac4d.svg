@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" height="100%" overflow="visible" preserveAspectRatio="none" style="display: block;" viewBox="0 0 40 40" width="100%">
+<g id="Group">
+<g id="Group_2">
+<path clip-rule="evenodd" d="M31.6667 28.3333H30C29.08 28.3333 28.3333 27.5867 28.3333 26.6667V18.3333C28.3333 17.4133 29.08 16.6667 30 16.6667H31.6667C33.5083 16.6667 35 18.1583 35 20V25C35 26.8417 33.5083 28.3333 31.6667 28.3333Z" fill-rule="evenodd" id="Path" stroke="var(--stroke-0, #1DBF98)" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5"/>
+<path clip-rule="evenodd" d="M10 28.3333H8.33333C6.49167 28.3333 5 26.8417 5 25V20C5 18.1583 6.49167 16.6667 8.33333 16.6667H10C10.92 16.6667 11.6667 17.4133 11.6667 18.3333V26.6667C11.6667 27.5867 10.92 28.3333 10 28.3333Z" fill-rule="evenodd" id="Path_2" stroke="var(--stroke-0, #1DBF98)" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5"/>
+<path d="M30.8333 16.6667V15.8333C30.8333 9.85 25.9833 5 20 5V5C14.0167 5 9.16667 9.85 9.16667 15.8333V16.6667" id="Path_3" stroke="var(--stroke-0, #1DBF98)" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5"/>
+<path clip-rule="evenodd" d="M21.0417 35.4167H18.9583C17.8083 35.4167 16.875 34.4833 16.875 33.3333V33.3333C16.875 32.1833 17.8083 31.25 18.9583 31.25H21.0417C22.1917 31.25 23.125 32.1833 23.125 33.3333V33.3333C23.125 34.4833 22.1917 35.4167 21.0417 35.4167Z" fill-rule="evenodd" id="Path_4" stroke="var(--stroke-0, #1DBF98)" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5"/>
+<path d="M23.125 33.3333H26.6667C28.5083 33.3333 30 31.8417 30 30V28.3333" id="Path_5" stroke="var(--stroke-0, #1DBF98)" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5"/>
+</g>
+<g id="Path_6">
+</g>
+</g>
+</svg>

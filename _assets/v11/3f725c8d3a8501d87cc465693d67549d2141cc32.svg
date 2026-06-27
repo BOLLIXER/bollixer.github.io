@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" height="100%" overflow="visible" preserveAspectRatio="none" style="display: block;" viewBox="0 0 70 70" width="100%">
+<g id="Frame 1000008496">
+<rect fill="url(#paint0_radial_0_15837)" height="70" width="70"/>
+<g id="Group 1000008207">
+<g id="Group 1000008199">
+<path d="M46.0295 39.1916L36.9139 39.215L31.9304 35.0515L46.0295 39.1916Z" fill="var(--fill-0, #09696E)" id="Vector 1205"/>
+<path d="M36.8907 27.3429H46.0295V30.7616H36.8907V27.3429Z" fill="var(--fill-0, #1DBF98)" id="Rectangle 3761"/>
+<path d="M23.9477 27.3428H27.3341V30.7614H23.9477V27.3428Z" fill="var(--fill-0, #1DBF98)" id="Rectangle 3764"/>
+<path d="M23.9476 33.4783H27.334V42.6103H23.9476V33.4783Z" fill="var(--fill-0, #1DBF98)" id="Rectangle 3765"/>
+<path d="M31.9304 35.121L36.8907 27.3429V30.7614L31.9304 35.121Z" fill="var(--fill-0, #ACEED6)" id="Vector 1202"/>
+<path d="M32.0687 35.121L27.3338 27.3429V30.7614L32.0687 35.121Z" fill="var(--fill-0, #ACEED6)" id="Vector 1207"/>
+<path d="M36.8907 30.7613L31.9304 35.1209L46.0295 30.7613H36.8907Z" fill="var(--fill-0, #09696E)" id="Vector 1204"/>
+<path d="M27.3338 30.7613L32.0687 35.1209L23.9706 30.7613H27.3338Z" fill="var(--fill-0, #09696E)" id="Vector 1208"/>
+<path d="M36.8676 39.1912H46.0296V42.6099H36.8676V39.1912Z" fill="var(--fill-0, #1DBF98)" id="Rectangle 3763"/>
+<path d="M36.9139 39.215V42.6571L31.9304 35.0515L36.9139 39.215Z" fill="var(--fill-0, #ACEED6)" id="Vector 1203"/>
+<path d="M27.3341 33.4783V42.6103L31.9995 35.0514L27.3341 33.4783Z" fill="var(--fill-0, #ACEED6)" id="Vector 1209"/>
+<rect fill="var(--fill-0, #1DBF98)" height="3.41867" id="Rectangle 3762" width="9.18521" x="36.8676" y="33.4783"/>
+<path d="M31.8607 35.0514L36.8672 33.4783V36.8969L31.8607 35.0514Z" fill="var(--fill-0, #ACEED6)" id="Vector 1201"/>
+</g>
+</g>
+</g>
+<defs>
+<radialGradient cx="0" cy="0" gradientTransform="translate(35 35) rotate(90) scale(35)" gradientUnits="userSpaceOnUse" id="paint0_radial_0_15837" r="1">
+<stop offset="0.375" stop-color="white"/>
+<stop offset="1" stop-color="white" stop-opacity="0"/>
+</radialGradient>
+</defs>
+</svg>
